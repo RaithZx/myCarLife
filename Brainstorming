@@ -1,0 +1,22 @@
+App para mantener registro de los gastos y servicios del coche.
+
+Funcionalidades.
+  - Añadir nuevo registro de mantenimiento:
+      - Revisión anual, Cambio neumáticos, Cambio de filtros...
+      - Coste de servicio
+      - Adjuntar factura / Ficha
+  - Añadir carga de combustible
+      - Litros repuestos
+      - Km actuales (de aqui sabemos los km que se han hecho y los litros que se gastan)
+      - Detectar por posición cuando estamos en una gasolinera???
+  - Registro de Kilometros
+      - Poder registrar un viaje
+      - 
+  - Añadir vehiculos
+      - Matricula (conectar con base de datos??)
+      - Marca
+      - Modelo
+      - Km actuales
+  - Informe y estadísticas
+      - Reporte de gastos
+      Reporte de mantenimientos
